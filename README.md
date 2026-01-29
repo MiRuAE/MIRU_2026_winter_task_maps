@@ -12,4 +12,4 @@
 * [f1tenth_gym ros](https://github.com/f1tenth/f1tenth_gym_ros) 를 기준으로 3바퀴 주행하여 가장 빠른 랩타임을 기준으로 합니다.
 
 ### 4. 제출방법
-* 각자 개인 Github repo에 build install log 폴더를 제외하고 ws폴더를 업로드 해주시면 됩니다. 구글챗에 공지된 구글폼에 제출해주세요.
+* 각자 개인 Github repo에 build install log 폴더를 제외하고 ws폴더를 업로드 해주시면 됩니다. 구글챗에 공지된 구글폼에 레포 링크를 제출해주세요.
